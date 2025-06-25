@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aryanranjan123.github.io/Study-Time/sitemap.xml
